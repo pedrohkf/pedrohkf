@@ -18,7 +18,7 @@
 <div> 
   <a href="https://www.instagram.com/pedrohkfaria/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/Pedro007#7839" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
- <a href="https://www.facebook.com/pedrohenrique.kaufmann.3/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=whit" target="_blank"></a> 
+ <a href="https://www.facebook.com/pedrohenrique.kaufmann.3/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
   <a href = "mailto:pedrohkfaria@gmail.com?subject=Ol%C3%A1%2C%20eu%20sou%20Pedro%20Henrique&body=Ol%C3%A1%2C%20tudo%20bem%3F%20Caso%20queira%20entrar%20em%20contato%20comigo%20estou%20a%20disposi%C3%A7%C3%A3o"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
   <div>
