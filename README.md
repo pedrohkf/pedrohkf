@@ -10,7 +10,7 @@
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Pedro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Pedro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Pedro-pic" height="230" width="230" style="border-radius:50px;" src="https://i.picasion.com/pic92/1c00e2759ab662f8b1132fd4bd7bc999.gif">
+  <img align="right" alt="Pedro-pic" height="160" width="250" style="border-radius:50px;" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611c6518eb7f5087206a952bf1d886039a619713475&rid=giphy.gif&ct=g">
 </div>
 
 ##
