@@ -43,8 +43,8 @@
 <table>
   <tr>
     <td width="33%">
-      <a href="https://github.com/pedrohkf/Portifolio">
-        <img src="imagens/portifolio.png" width="100%" alt="Portfólio preview"/>
+      <a href="https://pedro-kaufmann.netlify.app/">
+        <img src="portfolio.png" width="100%" alt="Portfólio preview"/>
       </a>
       <br>
       <h3><a href="https://github.com/pedrohkf/Portifolio">Portfólio</a></h3>
@@ -54,7 +54,7 @@
     </td>
     <td width="33%">
       <a href="https://github.com/pedrohkf/BIT-AI">
-        <img src="imagens/bit-ai.png" width="100%" alt="BIT-AI preview"/>
+        <img src="bit-ai.png" width="100%" alt="BIT-AI preview"/>
       </a>
       <br>
       <h3><a href="https://github.com/pedrohkf/BIT-AI">BIT-AI</a></h3>
@@ -65,8 +65,8 @@
       <a href="https://bit-ai-orcin.vercel.app"><img src="https://img.shields.io/badge/Ver_demo-5cadc0?style=for-the-badge"/></a>
     </td>
     <td width="33%">
-      <a href="https://github.com/pedrohkf/Instagram-Dogs">
-        <img src="imagens/instadogs.png" width="100%" alt="Instagram Dogs preview"/>
+      <a href="https://dogsandcats02.netlify.app/">
+        <img src="instadogs.png" width="100%" alt="Instagram Dogs preview"/>
       </a>
       <br>
       <h3><a href="https://github.com/pedrohkf/Instagram-Dogs">Instagram Dogs</a></h3>
