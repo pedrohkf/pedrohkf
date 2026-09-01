@@ -120,17 +120,16 @@
 ## 📊 Estatísticas
 
 <div align="center">
-
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pedrohkf&theme=github_dark&bg_color=0D1117&title_color=5CADC0&icon_color=5CADC0&border_color=5CADC0&text_color=C9D1D9&animation=fade" width="60%" />
+ <img src="https://streak-stats.demolab.com/?user=pedrohkf&hide_border=true&background=0D1117&ring=5CADC0&fire=5CADC0&currStreakLabel=5CADC0&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8b949e" width="60%" />
 
   <br><br>
-
+ 
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pedrohkf&theme=github_dark&bg_color=0D1117&title_color=5CADC0&chart_color=5CADC0&border_color=5CADC0&text_color=C9D1D9&animation=fade" width="42%" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pedrohkf&theme=github_dark&bg_color=0D1117&title_color=5CADC0&chart_color=5CADC0&border_color=5CADC0&text_color=C9D1D9&animation=fade&utcOffset=-3" width="42%" />
 
   <br><br>
 
-  <img src="https://streak-stats.demolab.com/?user=pedrohkf&hide_border=true&background=0D1117&ring=5CADC0&fire=5CADC0&currStreakLabel=5CADC0&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8b949e" width="60%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pedrohkf&theme=github_dark&bg_color=0D1117&title_color=5CADC0&icon_color=5CADC0&border_color=5CADC0&text_color=C9D1D9&animation=fade" width="60%" />
 
 </div>
 
